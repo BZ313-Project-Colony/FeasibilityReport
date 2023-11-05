@@ -42,7 +42,13 @@ xxxxxxxxxx@erciyes.edu.tr
 ...
 
 ### Taslak Plan (Temel Faaliyetler ve Kilometre Taşları)
-...
+1. Gereksinim Analizi Raporu 
+2. Yazılım Mimarisi ve Tasarımı Raporu
+3. Sprint1 
+4. sprint2
+5. Sprint3
+6. Test Etme, Hata Ayıklama ve Entegrasyon
+7. Projenin Son Tarihi
 
 ### Görünürlük Planı
 ...
