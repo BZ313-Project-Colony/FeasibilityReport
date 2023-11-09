@@ -24,7 +24,37 @@ xxxxxxxxxx@erciyes.edu.tr
 ...
 
 ### Ön Gereksinim Analizi
-...
+Sistemin aşağıdaki işlevsel gereksinimleri karşılaması gerekir:
+#### Web Arayüzü
+
+##### Yönetici tarafı
+- İçerisinde; etkinlik adı, tarihi, saati, mekânı, katılacak maksimum kişi sayısını içeren ve resim ekleyebildiği bir “Etkinlik” oluşturabilir.
+- Eklediği “Etkinlikleri” listeleyip görebilir.
+- Kullanıcıların Etkinliğe katılımı için her bir Etkinliğe özel olan kayıt linkini kopyalayabilir.
+- Her bir Etkinliğin içerisindeki Etkinliğe kaydolan katılımcıların bilgilerini ve katılımcı sayısını ve okunmuş QR sayısını görebilir.
+- Dilerse maksimum kişi sayısı dolmadan Etkinlik alımlarını kapatabilir.
+- Dilerse oluşturduğu Etkinliği silebilir. ​
+- Kendi kimliğiyle sisteme giriş yapar.
+
+##### Katılımcı Tarafı
+- Etkinliğe özel Url’den etkinlik bilgilerini görüntüleyebilir.
+- Etkinliğe kaydolmak için ad, soy ad, e-posta bilgilerini gönderebilir.
+     
+#### Mobil Arayüzü
+##### QR Okuyucu Kişisi tarafı
+1. Kendi kimliğiyle sisteme giriş yapar.
+2. Yöneticinin oluşturduğu Etkinlikleri listeleyip Etkinlik bilgilerini görebilir.
+3. Her bir Etkinliğin içerisindeki Etkinliğe Kaydolan kullanıcıların bilgilerini ve QR okutma durumlarını (okuttu, onaylandı / okutmadı / okuttu, onaylanmadı) görebilir.
+4. Her bir Etkinliğe ve katılımcıya özel QR’ları kamerayla okutup kendi inisiyatifiyle sisteme kaydeder veya kaydetmez.
+5. Hem yöneticinin hem de gelecekteki geliştiricilerin bakış açısına göre kolayca genişletilebilir olmalıdır.
+
+Sistem aşağıdaki işlevsel gereksinimlere sahip olabilir:  
+1. Yönetici sonradan etkinlik bilgilerini güncelleyebilir.
+2. Katılımcı sonradan kendi bilgilerini güncelleyebilir ya da silebilir.
+ 
+  İsteğe Bağlı
+1. Aynı Katılımcı birden çok kez kayıt oluşturmasın diye Katılımcı Arayüzünde e-posta kontrolü gerçekleştirilebilir.
+2. QR Okuyucu Arayüzüne girişi onaylanmayan kullanıcıyı sonradan onaylanabilir hale getirilebilir.
 
 ### Teknik Gereksinimler – Fizibilite
 ...
