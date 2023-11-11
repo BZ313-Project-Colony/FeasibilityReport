@@ -20,8 +20,14 @@ xxxxxxxxxx@erciyes.edu.tr
 ### Üstlenilecek Görev
 ...
 
-### Faydalar
-...
+##  Faydalar
+Organizasyonlarda katılımcı sayısının çokluğu sebebiyle katılımcıların etkinlik alanına girişlerinin takip edilmesi ve bilet bilgilerinin düzenli bir şekilde bir arada tutulması ve katılımcılara davet gönderilmesi zorlaşmaktadır. QR Pass müşterisi olanlar etkinliklerini tek bir siteden takip edebilecek. 
+
+ 1. Müşteri çok sayıda katılımcıya tek seferde davet gönderebilecek.
+ 2. Katılımcı olmak isteyenler site üzerinden form doldurarak etkinliklere başvurabilecekler.
+ 3. Geçmiş veya gelecek etkinliği seçip etkinlik katılımcılarını ve onların biletlerini görüntüleyebilecek.
+ 4. Biletleri ve QR kodları müşterilere bu site üzerinden gönderebilecek.
+ 5. Etkinlik alanına girişte katılımcıların biletlerini QR kod üzerinden mobil uygulamamızla kolayca takip edebilecek.
 
 ### Ön Gereksinim Analizi
 ...
