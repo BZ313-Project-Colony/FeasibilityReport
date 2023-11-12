@@ -86,8 +86,12 @@ Sistem aşağıdaki işlevsel gereksinimlere sahip olabilir:
 1. Aynı Katılımcı birden çok kez kayıt oluşturmasın diye Katılımcı Arayüzünde e-posta kontrolü gerçekleştirilebilir.
 2. QR Okuyucu Arayüzüne girişi onaylanmayan kullanıcıyı sonradan onaylanabilir hale getirilebilir.
 
-### Teknik Gereksinimler – Fizibilite
-...
+## Teknik Gereksinimler (Fizibilite)
+1. PaaS (Platform Cloud Service) - Heroku: Java Spring Boot ile oluşturduğumuz QRPass web servisimizi popüler, kullanışlı ve ucuz bir PaaS platformu olan Heroku üzerinde çalıştıracağız.
+2. Veritabanı: Postgres: Etkinlik ve bilet bilgilerini depolamak için açık kaynak ve Java ile uyumlu olan Postgres veritabanını kullanacağız.
+3. Mail Sender Library : Spring Boot Starter Email : Kullanıcıların maillerine kaydoldukları etkinliklere dair etkinlik bilgilerini ve QR kodlarını içeren bilet içeriğini güvenli bir şekilde mail yoluyla gönderebilmek için bu kütüphaneyi kullanacağız.
+4. Hosting : Firebase Hosting:  QRPass admin paneli ve etkinlik kayıt formu olarak geliştireceğimiz iki ayrı frontend web projesini Firebase Hosting aracılığıyla host edeceğiz.
+5. Flutter QR Scanner Library: Katılımcıların maillerine gelen QR kodlarını okuyup bilet durumlarını değiştirebilmek amacıyla oluşturacağımız mobil uygulamamızda development süresini kısaltmak adına hazır QR Scanner kütüphanesi kullanacağız.
 
 ### Kapsam
 ...
