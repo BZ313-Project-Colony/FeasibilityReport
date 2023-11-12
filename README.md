@@ -40,17 +40,20 @@ xxxxxxxxxx@erciyes.edu.tr
 
 ## Yazılım Geliştirme Süreci
 Proje, üniversite kulüplerinin etkinlik yönetimini optimize etmek ve katılım sürecini kolaylaştırmak amacıyla geliştirilmektedir. Projenin gereksinimleri genel olarak belirlenmiş olup müşterinin değişen istekleri doğrultusunda düzeltmelere açık şekilde ilerleyecektir. Yapılan yazılımın geliştirilmesi sürecinde gereksinim analizi, veri tabanı tasarımı, kullanıcı ve yönetici arayüzü geliştirme, QR kod oluşturma ve yönetme, e-posta bildirimleri, güvenlik, test ve hata düzeltme, dağıtım gibi adımların tamamlanıp planlanması yapılmıştır. Proje, agile(çevik) modelini benimsemekte ve bu yaklaşımın projenin başarısına katkı sağlayan çeşitli avantajları bulunmaktadır.
+
 Proje, şu ana aşamalardan oluşan bir çevik geliştirme sürecini benimsemektedir:
-İlk Planlama ve Gereksinim Belirleme:
+*İlk Planlama ve Gereksinim Belirleme:*
 Proje ekibi ve müşteri bir araya gelir, genel hedefleri belirler ve ilk iterasyonun planlamasını yapar.
-İlk İterasyon (Sprint):
+*İlk İterasyon (Sprit):*
 Kısa süreli bir süreç içinde, belirlenen gereksinimlere yönelik çalışmalar gerçekleştirilir ve minimum işlevsel bir ürün (MVP) oluşturulur.
-Müşteri Geri Bildirimi ve Güncelleme:
+*Müşteri Geri Bildirimi ve Güncelleme:*
 Oluşturulan MVP müşteriye sunulur, geri bildirimler alınır ve gerekli güncellemeler yapılır.
-İkinci İterasyon ve Sonraki Adımlar:
+*İkinci İterasyon ve Sonraki Adımlar:*
 Süreç tekrarlanır, her iterasyon yeni gereksinimlere uyum sağlayacak şekilde geliştirilir.
-Sürekli Entegrasyon ve Test: 
-Her iterasyon sonrasında sürekli entegrasyon ve test süreçleri uygulanır, böylece kalite kontrol sağlanır. Bu aşamalar, projenin belirlenen hedeflere ulaşabilmesi için adım adım ilerleyeceği bir süreci temsil etmektedir. Her aşama, belirli görevlere ve süreçlere odaklanarak projenin başarılı bir şekilde tamamlanmasına katkı sağlayacaktır. Ayrıca bu süreçte projede bulunan herkesin projenin hangi aşamasında olunduğu hakkında tamamıyla bilgi sahibidir. Proje şeffaf şekilde ilerlemekte ve takım çalışmasıyla yürütülmektedir.
+*Sürekli Entegrasyon ve Test: *
+Her iterasyon sonrasında sürekli entegrasyon ve test süreçleri uygulanır, böylece kalite kontrol sağlanır. 
+
+Bu aşamalar, projenin belirlenen hedeflere ulaşabilmesi için adım adım ilerleyeceği bir süreci temsil etmektedir. Her aşama, belirli görevlere ve süreçlere odaklanarak projenin başarılı bir şekilde tamamlanmasına katkı sağlayacaktır. Ayrıca bu süreçte projede bulunan herkesin projenin hangi aşamasında olunduğu hakkında tamamıyla bilgi sahibidir. Proje şeffaf şekilde ilerlemekte ve takım çalışmasıyla yürütülmektedir.
 
 
 ### Taslak Plan (Temel Faaliyetler ve Kilometre Taşları)
