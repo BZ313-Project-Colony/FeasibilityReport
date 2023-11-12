@@ -117,8 +117,18 @@ Projenin genel amaçları yukarıda belirtilmiş olup bu amaçlar doğrultusunda
  - *Veri tabanı*: Admin bilgileri, etkinlik bilgileri, katılımcı bilgileri, QR bilgileri gibi uygulama içi verileri depolama. Admin ve kullanıcı verileri gibi kişisel verilerin 3. partilerden korunması. Verilerin birbiriyle ilişkilendirilmesi.
 
 
-### Geçiş
-...
+## Geçiş
+**Web sitesini kullanacak etkinlik katılımcılarına genel bakış**
+
+Katılımcılar etkinlik id'lerine özel dinamik olarak oluşturulmuş etkinlik kayıt formunu doldurarak o etkinliğe kayıt olurlar.
+
+**Web sitesini müşterinin kullanımına genel bakış**
+
+Müşteri web sitesinde düzenlediği etkinlikleri yayınlar, geçmiş ve gelecek etkinlikleri ve bu etkinliklerin katılımcılarını görüntüleyebilir. Etkinliklere çok sayıda katılımcıyı tek seferde davet edebilir, katılımcıların biletlerini site üzerinden oluşturabilir ve hepsini aynı anda katılımcılara gönderebilir. 
+
+**Mobil uygulamayı müşterinin kullanımına genel bakış**
+
+Müşteri düzenlenen etkinliğe katılımı mobil uygulama üzerinden kontrol edebilir. Katılımcıların biletlerinde bulunan QR kodların kontrolü etkinlik girişlerinde mobil uygulamamız ile sağlanacaktır. Bu sayede etkinlik salonunun doluluğu ve katılımcıların girişleri kontrol edilebilmektedir.
 
 ## Yazılım Geliştirme Süreci
 Proje, üniversite kulüplerinin etkinlik yönetimini optimize etmek ve katılım sürecini kolaylaştırmak amacıyla geliştirilmektedir. Projenin gereksinimleri genel olarak belirlenmiş olup müşterinin değişen istekleri doğrultusunda düzeltmelere açık şekilde ilerleyecektir. Yapılan yazılımın geliştirilmesi sürecinde gereksinim analizi, veri tabanı tasarımı, kullanıcı ve yönetici arayüzü geliştirme, QR kod oluşturma ve yönetme, e-posta bildirimleri, güvenlik, test ve hata düzeltme, dağıtım gibi adımların tamamlanıp planlanması yapılmıştır. Proje, agile(çevik) modelini benimsemekte ve bu yaklaşımın projenin başarısına katkı sağlayan çeşitli avantajları bulunmaktadır.
