@@ -1,5 +1,5 @@
 # FeasibilityReport
-### Grup Üyeleri
+## Grup Üyeleri
 - Ahmet Faruk Çuha - 1030510500@erciyes.edu.tr
 - İrem Tapsız - 1030510605@erciyes.edu.tr
 - Semih Çay - 1030510327@erciyes.edu.tr
@@ -9,7 +9,7 @@
 - Batuhan Erol - 1030510326@erciyes.edu.tr
 - Sümeyye Korkmaz - 1030510287@erciyes.edu.tr
 
-### Müşteri
+## Müşteri
 Talha Yasin Aydın <br>
 VoltaCar Elektrik Birim Başkanı <br>
 Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği <br>
