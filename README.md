@@ -15,8 +15,34 @@ VoltaCar Elektrik Birim Başkanı <br>
 Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği <br>
 1030210690@erciyes.edu.tr
 
-### Üstlenilecek Görev
-...
+## Proje Adı
+QR Pass
+
+## Amaç
+Proje, davet ve etkinlik düzenlemelerinde QR teknolojisini kullanarak, davet oluşturup katılımcılarla organizasyon arasındaki iletişimi sağlayabilecek bir uygulama geliştirmeyi, böylece elle veri girişinin azaltılarak hata olasılığının azaltılması amaçlıyor. Ürün, iki tip kullanıcıya hitap etmektedir. Yönetici etkinlik ve etkinlik daveti oluşturma, davetlileri düzenleyebilme, davetli sayısının ve girişinin takibini sağlayabilme eylemlerini yapabilirken; kullanıcı oluşturulan etkinliğe kayıt gerçekleştirebilmelidir.
+
+## Üstlenilecek Görevler
+Proje yönetimi kısmında grup üyelerinin görevleri aşağıdaki maddeleri içermektedir
+
+ - Projenin yürütülmesi sırasında bilgilendirme toplantıları düzenlemek, sunumlar gerçekleştirmek, 
+ - Proje raporlarını düzenlemek, 
+ - Projenin uygulanmasında ortaklar ve paydaşlar ile ilişkileri düzenlemek
+ - Uygulama geliştirmek
+
+Proje web ve mobil olmak üzere iki ana tabandan oluşmaktadır.
+Web geliştirme kısmında
+
+ - Etkinlik oluşturma arayüzü hazırlanması
+ - Katılımcıların kayıt bilgilerini uygulamaya aktarabilecek bir kayıt sayfası oluşturulması
+ - Her katılımcıya özel QR kodunun oluşturulması ve sistemde tutulması
+ - Yöneticinin bütün katılımcılara davet mailini sorunsuzca atabileceği sistemin oluşturulması
+
+Mobil geliştirme kısmında
+
+ - QR okuma sistemi
+ - Etkinliğe katılım gösteren katılımcıların bilgilerinin uygulamaya aktarılması 
+
+sorunları çözülüp uygulama geliştirilecektir.
 
 ### Faydalar
 ...
