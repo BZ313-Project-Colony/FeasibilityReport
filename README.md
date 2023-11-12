@@ -37,10 +37,15 @@ xxxxxxxxxx@erciyes.edu.tr
 
 ## Geçiş
 **Web sitesini kullanacak etkinlik katılımcılarına genel bakış**
-Katılımcılar web sitesinde kulüplerin düzenlediği etkinlikleri görüntüleyebilecekler. Görüntülenen etkinliklerden başvuru süreci devam edenlere dair katılımcı formunu doldurarak etkinliklere başvurabilirler. 
+
+Katılımcılar etkinlik id'lerine özel dinamik olarak oluşturulmuş etkinlik kayıt formunu doldurarak o etkinliğe kayıt olurlar.
+
 **Web sitesini müşterinin kullanımına genel bakış**
-Müşteri web sitesinde düzenlediği etkinlikleri yayınlar, geçmiş ve gelecek etkinlikleri ve bu etkinliklerin katılımcılarını görüntüleyebilir. Etkinliklere çok sayıda katılımcıyı tek seferde davet edebilir, katılımcıların biletlerini site üzerinden oluşturabilir ve hepsini aynı anda katılımcılara gönderebilir.  
+
+Müşteri web sitesinde düzenlediği etkinlikleri yayınlar, geçmiş ve gelecek etkinlikleri ve bu etkinliklerin katılımcılarını görüntüleyebilir. Etkinliklere çok sayıda katılımcıyı tek seferde davet edebilir, katılımcıların biletlerini site üzerinden oluşturabilir ve hepsini aynı anda katılımcılara gönderebilir. 
+
 **Mobil uygulamayı müşterinin kullanımına genel bakış**
+
 Müşteri düzenlenen etkinliğe katılımı mobil uygulama üzerinden kontrol edebilir. Katılımcıların biletlerinde bulunan QR kodların kontrolü etkinlik girişlerinde mobil uygulamamız ile sağlanacaktır. Bu sayede etkinlik salonunun doluluğu ve katılımcıların girişleri kontrol edilebilmektedir.
 
 ### Yazılım Geliştirme Süreci
