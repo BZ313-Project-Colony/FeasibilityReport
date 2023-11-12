@@ -42,7 +42,7 @@ Sistemin aşağıdaki işlevsel gereksinimleri karşılaması gerekir:
      
 #### Mobil Arayüzü
 ##### QR Okuyucu Kişisi tarafı
-1. Kendi kimliğiyle sisteme giriş yapar.
+1. Kullanıcı adı ve şifre ile giriş yapılır.
 2. Yöneticinin oluşturduğu Etkinlikleri listeleyip Etkinlik bilgilerini görebilir.
 3. Her bir Etkinliğin içerisindeki Etkinliğe Kaydolan kullanıcıların bilgilerini ve QR okutma durumlarını (okuttu, onaylandı / okutmadı / okuttu, onaylanmadı) görebilir.
 4. Her bir Etkinliğe ve katılımcıya özel QR’ları kamerayla okutup kendi inisiyatifiyle sisteme kaydeder veya kaydetmez.
