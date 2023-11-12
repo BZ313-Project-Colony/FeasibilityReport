@@ -93,8 +93,8 @@ Sistem aşağıdaki işlevsel gereksinimlere sahip olabilir:
 4. Hosting : Firebase Hosting:  QRPass admin paneli ve etkinlik kayıt formu olarak geliştireceğimiz iki ayrı frontend web projesini Firebase Hosting aracılığıyla host edeceğiz.
 5. Flutter QR Scanner Library: Katılımcıların maillerine gelen QR kodlarını okuyup bilet durumlarını değiştirebilmek amacıyla oluşturacağımız mobil uygulamamızda development süresini kısaltmak adına hazır QR Scanner kütüphanesi kullanacağız.
 
-### Kapsam
-...
+## Kapsam
+Projenin genel amaçları yukarıda belirtilmiş olup bu amaçlar doğrultusunda Erciyes Üniversitesi Kulüp faaliyetlerini kolaylaştırmak ve hızlandırmak için üniversite öğrencilerini kapsayan “QR Pass” yazılım projesine başlanmıştır. Projenin kapsamı belirtilen amaçlar doğrultusunda sınırlanmış olup net bir şekilde belirlenmiştir. Proje kapsamında 2 farklı arayüz yapılması hedeflenmiştir. 1.Arayüz yönetim arayüzü olmakla beraber bu arayüz kulüp yöneticileri için planlanmıştır. Kulüp yöneticilerinin hızlı ve kolay bir şekilde kulüp faaliyetleri oluşturup yayınlamasını ve katılımcıların etkinliğe giriş takibi için katılımcılara hızlı bir şekilde QR kod göndermesini ve takip edilebilmesini sağlamaktadır. 2.arayüz ise etkinliklere katılmak isteyen öğrencilerin hızlıca kayıt oluşturabileceği arayüzü hedeflemektedir. Projenin genel kapsamları bu şekildedir. Kullanıcı verilerini sadece yönetici arayüzüne sunulması planlanmıştır bu kapsamda veri güvenliği hedeflenmiştir.
 
 ### Önerilen Teslimatlar
 ...
