@@ -13,7 +13,7 @@
 Talha Yasin Aydın <br>
 VoltaCar Elektrik Birim Başkanı <br>
 Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği <br>
-xxxxxxxxxx@erciyes.edu.tr
+1030210690@erciyes.edu.tr
 
 ### Üstlenilecek Görev
 ...
