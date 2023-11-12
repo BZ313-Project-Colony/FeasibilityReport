@@ -8,14 +8,12 @@
 - Elif İrem Keskin - 1030510558@erciyes.edu.tr
 - Batuhan Erol - 1030510326@erciyes.edu.tr
 - Sümeyye Korkmaz - 1030510287@erciyes.edu.tr
-- Zeynep Öztürk - 1030510073@erciyes.edu.tr*
-- Ahmet Kerim Acemoğlu - 1030510166@erciyes.edu.tr
 
 ### Müşteri
 Talha Yasin Aydın <br>
 VoltaCar Elektrik Birim Başkanı <br>
 Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği <br>
-xxxxxxxxxx@erciyes.edu.tr
+1030210690@erciyes.edu.tr
 
 ### Üstlenilecek Görev
 ...
