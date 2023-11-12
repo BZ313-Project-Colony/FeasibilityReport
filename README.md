@@ -26,7 +26,7 @@ xxxxxxxxxx@erciyes.edu.tr
 ### Ön Gereksinim Analizi
 ...
 
-### Teknik Gereksinimler (Fizibilite)
+## Teknik Gereksinimler (Fizibilite)
 1. PaaS (Platform Cloud Service) - Heroku: Java Spring Boot ile oluşturduğumuz QRPass web servisimizi popüler, kullanışlı ve ucuz bir PaaS platformu olan Heroku üzerinde çalıştıracağız.
 2. Veritabanı: Postgres: Etkinlik ve bilet bilgilerini depolamak için açık kaynak ve Java ile uyumlu olan Postgres veritabanını kullanacağız.
 3. Mail Sender Library : Spring Boot Starter Email : Kullanıcıların maillerine kaydoldukları etkinliklere dair etkinlik bilgilerini ve QR kodlarını içeren bilet içeriğini güvenli bir şekilde mail yoluyla gönderebilmek için bu kütüphaneyi kullanacağız.
