@@ -47,8 +47,8 @@ xxxxxxxxxx@erciyes.edu.tr
 ### Görünürlük Planı
 ...
 
-### Ticari Hususlar
-...
+## Ticari Hususlar
+Erciyes Üniversitesi öğrencileri olarak bu projede oluşturduğumuz yazılımın telif hakkı grubumuza aittir. Grup müşteriye sistemi kullanması için sınırsız lisans sağlamayı kabul eder. Bu proje kapsamında herhangi bir ticari amacımız yoktur.
 
 ### Risk Analizi
 ...
