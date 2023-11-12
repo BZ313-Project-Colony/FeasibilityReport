@@ -44,8 +44,12 @@ xxxxxxxxxx@erciyes.edu.tr
 ### Taslak Plan (Temel Faaliyetler ve Kilometre Taşları)
 ...
 
-### Görünürlük Planı
-...
+## Görünürlülük Planı
+
+**Harici** – Grup, Her sprint sonunda online veya belirlenen yerde toplantı gerçekleştirilecektir. Toplantılar arasında beklenmeyen bir durum veya bir sorun ortaya çıkarsa gereken iletişim e-mail yoluyla gerçekleştirilecektir.
+Hataları en aza indirgemek için her sprint sonunda müşteriye düzenli olarak raporlama yapılacaktır.
+
+**Dahili** – Grup, grup üyelerinin ilerlemeleri github üzerinden takip edilecektir. Sorunları ve ilerlemeleri tartışmak amacıyla ekip liderinin belirlediği tarihlerde toplantılar yapılacaktır. İlerlemeler kilometre taşlarında planlandığı gibi yapılacaktır ve çalışmalar kıyaslanacaktır. Projeyi analiz ederken SWOT Analizi kullanılacaktır. SWOT Analizi, projenin güçlü yanlarını, zayıf yanlarını, fırsatlarını ve tehditlerini analiz eden bir matris. İlerlemelerin takibinde Gantt Şeması ve Zaman Çizelgesi (Timeline) kullanılacaktır. Gantt şeması, bir projenin veya görevin süresini, başlangıcını, bitişini ve her bir görevin ne kadar sürede tamamlanması gerektiğini gösteren bir çubuk grafik olarak tasvir eder. Bu grafik, görevlerin sırasını ve birbirlerine bağımlılıklarını anlamak, kaynakları planlamak ve proje ilerlemesini izlemek için oldukça kullanışlıdır. Zaman çizelgesi, olayların veya görevlerin belirli bir zaman dilimi içinde sıralandığı ve görsel olarak temsil edildiği bir grafik veya diyagramdır. Düzenli toplantılar sırasında ilerleme, gereksinim çalışmasının tamamlanmasının ardından görevler belirlenip atanacaktır.
 
 ### Ticari Hususlar
 ...
