@@ -149,7 +149,15 @@ Bu aşamalar, projenin belirlenen hedeflere ulaşabilmesi için adım adım iler
 
 
 ### Taslak Plan (Temel Faaliyetler ve Kilometre Taşları)
-...
+1. Gereksinim Analizi Raporu (13 Kasım - 16 Kasım)
+2. Yazılım Mimarisi ve Tasarımı Raporu  (17 Kasım - 19 Kasım)
+3. Sprint - 1 - Login (20 Kasım - 26 Kasım)
+4. Sprint - 2 - Event Creation (27 Kasım - 3 Aralık)
+5. Sprint - 3 - Event Detail (4 Aralık - 10 Aralık)
+6. Sprint - 4 - Register Participants (11 Aralık - 17 Aralık)
+7. Sprint - 5 - Confirm Tickets (18 Aralık - 24 Aralık)
+8. Test Etme, Hata Ayıklama ve Entegrasyon (25 Aralık - 29 Aralık)
+9. Projenin Müşteriye Teslimi (30 Aralık - 31 Aralık)
 
 ### Görünürlük Planı
 ...
